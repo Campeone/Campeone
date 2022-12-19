@@ -4,8 +4,15 @@
 - 💞️ I’m looking for internship opportunities or a Junior Data Scientist role ...
 - 🌱 2023 Goals: Learn Deep Learning, DSA, build cool projects and eventually land a Data Science role 
 - 💞️ I love Sound Engineering
-- 📫 You can reach me via my email ojotimilehin01@gmail.com...
+- 📫 You can reach me via my [email](ojotimilehin01@gmail.com)... 
 
+
+### Languages and Tools 
+Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn 
+SQL 
+Github 
+Excel 
+Tableau
 <!---
 Campeone/Campeone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
